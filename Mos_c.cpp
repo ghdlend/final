@@ -8,5 +8,6 @@ void main() {
 		printf("coffee");
 		printf("ice americano");
 		printf("cafuchino");
+		printf("dolche ratte");
 	}
 }
