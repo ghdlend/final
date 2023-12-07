@@ -9,5 +9,6 @@ void main() {
 		//main으로 원위치
 		//main 1
 		printf("123");
+		printf("foo에서 main 첫 번째");
 	}
 }
