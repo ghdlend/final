@@ -8,5 +8,6 @@ void main() {
 		printf("parkjinseong");
 		//main으로 원위치
 		//main 1
+		printf("123");
 	}
 }
