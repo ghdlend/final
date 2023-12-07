@@ -7,5 +7,6 @@ void main() {
 		printf("%d %d \n", (*ptr) + x, ptr[x]);
 		printf("coffee");
 		printf("ice americano");
+		printf("cafuchino");
 	}
 }
