@@ -5,5 +5,6 @@ void main() {
 	for (int x = 0; x < 5; x++)
 	{
 		printf("%d %d \n", (*ptr)+x,ptr[x]);
+		printf("parkjinseong");
 	}
 }
