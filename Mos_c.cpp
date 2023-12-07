@@ -6,7 +6,7 @@ void main() {
 	{
 		printf("%d %d \n", (*ptr)+x,ptr[x]);
 		printf("parkjinseong");
-		printf("foo one");
-		printf("foo one two");
+		printf("foo three");
+		
 	}
 }
