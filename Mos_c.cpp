@@ -10,5 +10,6 @@ void main() {
 		//main 1
 		printf("123");
 		printf("foo에서 main 첫 번째");
+		//git one+1
 	}
 }
