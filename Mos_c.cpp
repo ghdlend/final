@@ -7,5 +7,6 @@ void main() {
 		printf("%d %d \n", (*ptr) + x, ptr[x]);
 		printf("jamong ade");
 		printf("lemon ade");
+		printf("I hate coffee");
 	}
 }
