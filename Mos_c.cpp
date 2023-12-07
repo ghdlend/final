@@ -6,6 +6,7 @@ void main() {
 	{
 		printf("%d %d \n", (*ptr)+x,ptr[x]);
 		printf("parkjinseong");
+<<<<<<< HEAD
 		//main으로 원위치
 		//main 1
 		printf("123");
@@ -15,5 +16,9 @@ void main() {
 		printf("fooooooooo");
 		//fooooooo add
 		printf("final end");
+=======
+		printf("foo three");
+		
+>>>>>>> foo
 	}
 }
