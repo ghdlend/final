@@ -20,5 +20,6 @@ void main() {
 		printf("foo three");
 		
 >>>>>>> foo
+       //+1
 	}
 }
