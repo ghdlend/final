@@ -20,6 +20,6 @@ void main() {
 		printf("foo three");
 		
 >>>>>>> foo
-       //+123
+       //+1
 	}
 }
